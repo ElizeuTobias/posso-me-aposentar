@@ -1,0 +1,1 @@
+import{J as e}from"./index-oakmjdi5.js";import{t}from"./ServicoDetalhe-BARLF_vG.js";var n=e();function r(){return(0,n.jsx)(t,{slug:`auxilios`})}export{r as default};
