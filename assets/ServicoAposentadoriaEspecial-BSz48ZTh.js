@@ -1,0 +1,1 @@
+import{J as e}from"./index-DNg6SKWb.js";import{t}from"./ServicoDetalhe-CMVz8Zue.js";var n=e();function r(){return(0,n.jsx)(t,{slug:`aposentadoria-especial`})}export{r as default};
